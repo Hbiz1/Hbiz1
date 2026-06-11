@@ -1,14 +1,13 @@
 # 👋Hello, I'm Holden Mirsky
-##Owner of HoMi Co.*
-###Political Science / Economics student at Dalhousie University
+## Owner of HoMi Co.*
+### Political Science / Economics student at Dalhousie University _(Class of 2029)_
 
 
 
 
 
 
-
-*contact for further information
+_*contact for further information_
 
 <!--
 **Hbiz1/Hbiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
