@@ -1,6 +1,16 @@
-## 👋Hello, I'm Holden Mirsky
+# 👋Hello, I'm Holden Mirsky
+##Owner of HoMi Co.*
+###Political Science / Economics student at Dalhousie University
 
-<!--Political Science / Economics student at Dalhousie University
+
+
+
+
+
+
+*contact for further information
+
+<!--
 **Hbiz1/Hbiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
